@@ -1,4 +1,4 @@
-# Foobar
+# git-flow demo
 
 Foobar is a Python library for dealing with word pluralization.
 
