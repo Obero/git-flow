@@ -11,5 +11,5 @@ Nothing to see here !
 ## Usage
 
 ```bash
-git checkout git-flow
+git clone git-flow
 ```
